@@ -26,7 +26,7 @@ public class ParkingFieldTest {
 	public ExpectedException expectedEx = ExpectedException.none();
 	
 	@Before
-	public void private void commonOperations() {
+	public void commonOperations() {
 		//讲解点：可以将创建停车场、车等测试用例的Code放于此处
 
 	}
